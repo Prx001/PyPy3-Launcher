@@ -37,8 +37,9 @@
 # How to install packages as ```pip install``` does it for CPython?
  since pip itself is written in Python, and ```pip install``` is actually ```python -m pip install```, you can use
  ```pypy3``` to do so. After you added PyPy to path, you can use the commands below:
- ```pypy3 ensurepip
- ```pypy3 -m pip install <package>
+ ```
+ pypy3 ensurepip
+ pypy3 -m pip install <package>
  ```
 # How to use PyPy?
  After you setted up PyPy, you can find interpreter setting in your IDE and change it PyPy. (Your IDE may ask for the directory of the interpreter, give the directory to
