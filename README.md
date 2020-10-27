@@ -1,5 +1,5 @@
 # PyPy3 Launcher
- A launcher for python files with PyPy implementation
+ A launcher for python files with PyPy implementation.
  Before using this launcher you have to have PyPy3 installed and added it's directory(PyPy directory) to the path.
  [Download and install PyPy3](https://www.pypy.org/download.html)
 # What is PyPy?
