@@ -1,7 +1,7 @@
 # PyPy3 Launcher
  A launcher for python files with PyPy implementation
  Before using this launcher you have to have PyPy3 installed and added it's directory(PyPy directory) to the path.
- [Download and install PyPy3] (https://www.pypy.org/download.html)
+ [Download and install PyPy3](https://www.pypy.org/download.html)
 # What is PyPy?
  PyPy is one of the most famous Python implementations which is mainly used for it's incredible speed.
  PyPy is between 4 to 50 times faster than the Python default implementation depends on your tasks.
