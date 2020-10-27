@@ -10,9 +10,9 @@
 # What are Python implementations?
  An "implementation" of Python should be taken to mean a program or environment which provides support for the execution of programs written in the Python language,
  as represented by the CPython reference implementation.
- [Learn more] (https://wiki.python.org/moin/PythonImplementations)
+ [Learn more](https://wiki.python.org/moin/PythonImplementations)
 # What's my implementation?
- The default Python implementation is 'CPython'. If you downloaded Python from [python.org] (https://python.org) your implementation is CPython.
+ The default Python implementation is 'CPython'. If you downloaded Python from [python.org](https://python.org) your implementation is CPython.
  You can also check your implementation whenever you want using the scripts below:
  ```py
  import platform
@@ -31,7 +31,7 @@
  PyPy often runs faster than CPython because PyPy is a just-in-time compiler which known as JIT compiler, while CPython is an interpreter.
  Since interpreters are usually easier to write than compilers, but run slower, this technique can make it easier to produce efficient implementations of programming languages.
 # Where to download PyPy?
- You can download PyPy [here] (https://www.pypy.org/download.html). It doesn't need an extra installation just unpack it and move the folder somewhere;
+ You can download PyPy [here](https://www.pypy.org/download.html). It doesn't need an extra installation just unpack it and move the folder somewhere;
  such as ```C:\Users\username\AppData\Local\Programs\Python``` which is the directory in which usually Python installed.
  Don't forget to install the libraries, modules and packages that you need or already installed on CPython.
 # How to install packages as ```pip install``` does it for CPython?
@@ -48,9 +48,9 @@
  except that the default Python launcher, runs your program on CPython, However PyPy Launcher runs them on PyPy implementation without going to your IDE and setting the interpreter!
  You can also set PyPy Lancher as default program to open your .py files and make it as simple as double clicks!
 # Also see
- [PyPy official website] (https://www.pypy.org)
- [PyPy documentation] (https://doc.pypy.org/en/latest)
- [PyPy frequently asked questions] (https://doc.pypy.org/en/latest/faq.html)
- [PyPy at Wikipedia] (https://en.wikipedia.org/wiki/PyPy)
- [PyPy at PyCon] (https://www.youtube.com/watch?v=1n9KMqssn54)
- [PyPy at Real Python] (https://www.youtube.com/watch?v=Ri8sU5DphEE)
+ [PyPy official website](https://www.pypy.org)
+ [PyPy documentation](https://doc.pypy.org/en/latest)
+ [PyPy frequently asked questions](https://doc.pypy.org/en/latest/faq.html)
+ [PyPy at Wikipedia](https://en.wikipedia.org/wiki/PyPy)
+ [PyPy at PyCon](https://www.youtube.com/watch?v=1n9KMqssn54)
+ [PyPy at Real Python](https://www.youtube.com/watch?v=Ri8sU5DphEE)
