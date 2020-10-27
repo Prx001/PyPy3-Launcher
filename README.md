@@ -31,7 +31,7 @@
  PyPy often runs faster than CPython because PyPy is a just-in-time compiler which known as JIT compiler, while CPython is an interpreter.
  Since interpreters are usually easier to write than compilers, but run slower, this technique can make it easier to produce efficient implementations of programming languages.
 # Where to download PyPy?
- You can download PyPy [here](https://www.pypy.org/download.html). It doesn't need an extra installation just unpack it and move the folder somewhere;
+ You can download PyPy [here](https://www.pypy.org/download.html). It doesn't need an extra installation, just unpack it and move the folder somewhere;
  such as ```C:\Users\username\AppData\Local\Programs\Python``` which is the directory in which usually Python installed.
  Don't forget to install the libraries, modules and packages that you need or already installed on CPython.
 # How to install packages as ```pip install``` does it for CPython?
