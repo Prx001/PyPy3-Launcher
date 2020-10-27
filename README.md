@@ -5,4 +5,4 @@
  To check whatever your implementation is, use the simple code below:
  ```py
  import platform
- print(platform.python_implementation())```
+ print(platform.python_implementation())
