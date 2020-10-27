@@ -6,7 +6,7 @@
  PyPy is one of the most famous Python implementations which is mainly used for it's incredible speed.
  PyPy is between 4 to 50 times faster than the Python default implementation depends on your tasks.
  As the creator of Python, Guido van rossum said:
- >If you want your code run faster, you should defnitely use PyPy!<
+ >If you want your code run faster, you should defnitely use PyPy!>
  It doesn't change your code, it doesn't have any other syntax, it just executes your program in another way.
  We will talk about it more.
 # What are Python implementations?
