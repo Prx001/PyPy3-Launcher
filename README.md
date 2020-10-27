@@ -45,7 +45,7 @@
  Then run your code and it will use PyPy interpreter!
 # Where to use PyPy3 Launcher? What does it do?
  This program, is just like the Python default launcher which installs with Python and gives you the ability to run .py files with a simple double click;
- except that the default Python launcher, runs your program on CPython, However PyPy Launcher runs them on PyPy implementation without going to your IDE and setting the interpreter!
+ except that the default Python launcher, runs your program on CPython, However PyPy Launcher runs them on PyPy implementation without using your IDE and setting the interpreter!
  You can also set PyPy Lancher as default program to open your .py files and make it as simple as double clicks!
 # Also see
  [PyPy official website](https://www.pypy.org)
