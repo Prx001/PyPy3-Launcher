@@ -1,4 +1,5 @@
 ## THIS REPOSITORY IS UNAVAILABLE NOW! WE'RE FIXING SOME IMPORTANT ISSUES!
+## Beta version is in development.
 # PyPy3 Launcher
  A launcher for python files with PyPy implementation.
  Before using this launcher you have to have PyPy3 installed and added it's directory(PyPy directory) to the path.
@@ -36,7 +37,7 @@
  such as ```C:\Users\username\AppData\Local\Programs\Python``` which is the directory in which usually Python installed.
  Don't forget to install the libraries, modules and packages that you need or already installed on CPython.
 # How to install packages as ```pip install``` does it for CPython?
- since pip itself is written in Python, and ```pip install``` is actually ```python -m pip install```, you can use
+ Since pip itself is written in Python, and ```pip install``` is actually ```python -m pip install```, you can use
  ```pypy3``` to do so. After you added PyPy to path, you can use the commands below:
  ```
  pypy3 ensurepip
